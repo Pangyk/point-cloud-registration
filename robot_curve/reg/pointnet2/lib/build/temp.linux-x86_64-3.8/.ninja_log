@@ -1,0 +1,6 @@
+# ninja log v5
+3	13228	1681065869737862451	/shenlab/lab_stor4/yunkuipa/robot/pointnet2/lib/build/temp.linux-x86_64-3.8/src/group_points.o	fdf4a69d3feb4075
+4	13525	1681065870025874447	/shenlab/lab_stor4/yunkuipa/robot/pointnet2/lib/build/temp.linux-x86_64-3.8/src/sampling.o	390d4d6ffddff48
+2	13809	1681065870316886568	/shenlab/lab_stor4/yunkuipa/robot/pointnet2/lib/build/temp.linux-x86_64-3.8/src/ball_query.o	a9a653b1c4c178cf
+4	14108	1681065870613898939	/shenlab/lab_stor4/yunkuipa/robot/pointnet2/lib/build/temp.linux-x86_64-3.8/src/interpolate.o	e843eee9d3045133
+2	34384	1681065890869742628	/shenlab/lab_stor4/yunkuipa/robot/pointnet2/lib/build/temp.linux-x86_64-3.8/src/pointnet2_api.o	c364cbcf70ae4721
